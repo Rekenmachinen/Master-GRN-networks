@@ -1,7 +1,7 @@
 # STN vs GRNboost2
 # Coding of a GRN method form my master thesis in Biophyscis
 The key goals
-1) In the Thesis i'm trying to make a new simpler Gene Regulatory networks methods.
+1) In the Thesis i'm trying to make a new simpler Gene Regulatory network method.
 2) benchmarking it against GRN2boost[1][4] without a transcription factor list.
 3) Make prediction for essential genes and the Regulation in the system based on the network structure[3][7].
 4) Get an inside to WNT-signaling network through the networks[2][6]. 
