@@ -1,5 +1,4 @@
 # Master-GRN-networks
-# Master_Bio
 This Github is the code form my master thesis.
 In the Thesis i'm trying to make a new simpler Gene Regulatory networks methods and I'm benchmarking it aginst GRN2boost without a transcription factor list.
 The data is from a mice in Vivo day 6.5 to 9.5 single celled Rna seqs data and in vitro expreiment is also pressent from day 3-6 but not used as much in the thesis.
