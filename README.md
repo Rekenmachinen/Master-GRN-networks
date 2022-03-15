@@ -5,6 +5,8 @@ This Github is the code form my master thesis.
 3) Make prediction for essential genes and the Regulation in the system based on the network structure.
 4) Get an inside to WNT-signalling network through the networks. 
 5) get a feeling for how the diffrent days Regulation hierarchy is from the Graph property Distribution.
+
+
 The data is from a mice in Vivo day 6.5 to 9.5 single celled Rna seqs data and in vitro expreiment is also pressent from day 3-6 but not used as much in the thesis.
 The validation of the methods was done on WNT-signalling pathway study of Humans [2]. 
 This is becasue mice wnt-signalling network doesn't have specific pathway studies yet so the Validation should be taken litely.
